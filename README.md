@@ -7,3 +7,6 @@ In Tetrachrome/subpixel project, we can train the subpixel model, but the projec
 and then run python predict.py
 
 3 In the meanwhile, you can get the model file for android in models directory(I don't know it is correct?)
+
+4 In SuperResolutionAndroid is android inference use the model, but the result is not correct? I can't resolve the problem, can anyone can 
+  contribute it?
